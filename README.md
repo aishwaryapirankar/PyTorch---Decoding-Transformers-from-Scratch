@@ -16,7 +16,7 @@ This project provides a clear and educational implementation of a Transformer de
 
 ## Features
 
--      **From Scratch Implementation**: Provides a detailed, step-by-step implementation of the Transformer decoder.
+-   **From Scratch Implementation**: Provides a detailed, step-by-step implementation of the Transformer decoder.
 -   **PyTorch Lightning**: Leverages PyTorch Lightning for clean, organized, and scalable code.
 -   **Educational Focus**: Designed to be easily understandable, making it ideal for learning and experimentation.
 -   **Masked Multi-Head Attention**: Implements the crucial masked multi-head attention mechanism for autoregressive decoding.
